@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="WaveView">
+        <attr name="waveCount" format="integer"/>
+        <attr name="waveWidth" format="integer"/>
+        <attr name="android:color"/>
+        <attr name="mode" >
+            <enum name = "circle" value="-1"/>
+            <enum name = "triangle" value = "-2"/>
+        </attr>
+    </declare-styleable>
+</resources>
