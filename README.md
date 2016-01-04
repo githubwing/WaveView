@@ -4,7 +4,7 @@ An Android WaveView 波浪view
 =======
 
 ###Perview
-![image](https://github.com/githubwing/WaveView/raw/master/perview.gif)
+![image](https://github.com/githubwing/WaveView/raw/master/perview.jpg)
 ###How To Use
 add a WaveView into your XML.
 
