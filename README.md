@@ -2,7 +2,8 @@
 An Android WaveView 波浪view 
 <<<<<<< HEAD
 =======
-
+###讲解地址
+http://blog.csdn.net/wingichoy/article/details/50460213
 ###Perview
 ![image](https://github.com/githubwing/WaveView/raw/master/perview.jpg)
 ###How To Use
